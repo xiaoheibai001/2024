@@ -10,7 +10,7 @@
 
   
 :star:下载软件
-- 谷歌搜到的官网正版>[uptodown](https://cn.uptodown.com/)这类正规网站>开源软件，不要下载修改版，如非要用，装到[蓝叠模拟器](https://www.bluestacks.cn/)
+- 谷歌搜到的官网正版>[uptodown](https://cn.uptodown.com/)这类正规网站>开源软件，不要下载修改版（如非要用，安卓app可装到[蓝叠模拟器](https://www.bluestacks.cn/)）
 
 
 :star:流媒体、GPT等账号拼车
